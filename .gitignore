@@ -1,4 +1,7 @@
 .gitignore
+.idea
+.vscode
+__pycache__/
 env/
 Prebuilt/
 instance/
